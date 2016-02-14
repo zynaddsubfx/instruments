@@ -399,7 +399,7 @@ echo "\
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
 " > manifest.ttl
 
-ls "../banks/" | while read i; do
+ls "../banks/" | sort | while read i; do
 
 BANK_NAME=$i
 BANK_URI=`echo $BANK_NAME | awk '{ sub(" ","%20"); print }' | awk '{ sub(" ","%20"); print }'`
@@ -416,7 +416,7 @@ echo "\
 @prefix state: <http://lv2plug.in/ns/ext/state#> .
 " > "$BANK_NAME.ttl"
 
-ls "../banks/$i" | while read j; do
+ls "../banks/$i" | sort | while read j; do
 
 if [ "$j"x != "README"x ] && [ "$j"x != "ReadMe.txt"x ] && [ "$j"x != "descriptions.txt"x ]; then
 
