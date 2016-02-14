@@ -3803,6 +3803,906 @@
     rdfs:label "Misc: 0070-SuperSaw 6.xiz" ;
     rdfs:seeAlso <Misc.ttl> .
 
+<http://zynaddsubfx.sourceforge.net#bank_net-wisdom>
+    a pset:Bank ;
+    rdfs:label "net-wisdom" .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0001-Stereo%20laser%20gun>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0001-Stereo laser gun.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0002-Mod%20beeps>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0002-Mod beeps.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0003-Rising%20bleeps>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0003-Rising bleeps.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0004-Filter%20rise>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0004-Filter rise.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0005-Order%20of%20Chaos>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0005-Order of Chaos.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0006-Robotix%20FM>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0006-Robotix FM.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0007-broke%20robot>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0007-broke robot.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0008-droplets%20for%20chords>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0008-droplets for chords.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0009-Fantasy%20Canyon%20X>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0009-Fantasy Canyon X.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0010-Batman%202>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0010-Batman 2.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0011-Ping>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0011-Ping.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0012-Alien%20Sound>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0012-Alien Sound.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0013-Hoover>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0013-Hoover.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0014-wyatt1sequenz>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0014-wyatt1sequenz.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0015-bizzarro>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0015-bizzarro.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0016-Ioio_01>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0016-Ioio_01.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0017-Own%20Metal%20Sound%20after%202>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0017-Own Metal Sound after  2.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0018-Metal%20Sound%202>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0018-Metal Sound 2.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0019-star%20chimes>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0019-star chimes.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0020-Angry%20Saw>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0020-Angry Saw.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0021-Ugly%20Bells>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0021-Ugly Bells.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0022-Ghost%20Bells>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0022-Ghost Bells.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0023-bubblefx>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0023-bubblefx.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0024-Rich%20Stereo%20Wind>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0024-Rich Stereo Wind.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0025-old%20echoed%20ambient>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0025-old echoed ambient.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0026-White%20Music%201>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0026-White Music 1.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0027-ping%20pong%20drum>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0027-ping pong drum.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0028-Fast%20Bass>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0028-Fast Bass.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0029-Res-Synth%20Bass%203>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0029-Res-Synth Bass 3.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0030-Analog%20Bass>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0030-Analog Bass.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0031-Chip%20Bass%203>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0031-Chip Bass 3.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0032-Chip%20Bass%204>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0032-Chip Bass 4.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0033-Vangelis%20Saw%20-%20A>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0033-Vangelis Saw - A.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0034-Vangelis%20Saw%20-%20B>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0034-Vangelis Saw - B.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0035-Vangelis%20Saw%20-%20C>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0035-Vangelis Saw - C.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0036-Vangelis%20Saw%20-%20D>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0036-Vangelis Saw - D.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0037-buzz>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0037-buzz.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0038-Saw%20String%201>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0038-Saw String 1.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0039-StarWind%20Strings>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0039-StarWind Strings.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0040-brightstrings>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0040-brightstrings.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0041-Electronic%20Strings>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0041-Electronic Strings.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0042-Rick%20Wright_s%20String>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0042-Rick Wright_s String.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0043-Ominous%20Strings>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0043-Ominous Strings.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0044-RichSpace00>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0044-RichSpace00.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0045-Galactic%20Pad>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0045-Galactic Pad.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0046-Synthy%20Pad>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0046-Synthy Pad.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0047-Soft%20Pad>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0047-Soft Pad.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0048-galaxzy-soft>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0048-galaxzy-soft.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0049-Noise-Phased%20Pad>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0049-Noise-Phased Pad.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0050-Flanged%20Pad>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0050-Flanged Pad.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0051-Aura>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0051-Aura.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0052-Sine%20Effect>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0052-Sine Effect.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0053-ContinuumBeatPad>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0053-ContinuumBeatPad.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0054-onemorepad>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0054-onemorepad.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0055-RadioPulsePad>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0055-RadioPulsePad.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0056-Ethereal%20Sub>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0056-Ethereal Sub.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0057-Useless%20Lush>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0057-Useless Lush.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0058-Classic%20Slightly-filtered>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0058-Classic Slightly-filtered.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0059-SUBsaw>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0059-SUBsaw.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0060-Subsyn%20Pad>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0060-Subsyn Pad.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0061-and%20Yet%20another%20one>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0061-and Yet another one.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0062-Glass%20Organ%201>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0062-Glass Organ 1.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0063-similSynth%20Pad>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0063-similSynth Pad.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0064-LostForWordsPad>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0064-LostForWordsPad.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0065-WindSaw>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0065-WindSaw.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0066-Comb%20Filter>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0066-Comb Filter.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0067-Beeping%20Pad>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0067-Beeping Pad.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0068-Vint%20Beep%20Pad>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0068-Vint Beep Pad.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0069-Vint%20Beep%20Pad%20mod>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0069-Vint Beep Pad mod.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0070-Sub%20Lush%20Sweep>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0070-Sub Lush Sweep.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0071-Angelic%20choir>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0071-Angelic choir.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0072-2-36AM%20Lush>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0072-2-36AM Lush.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0073-1-46AM%20Lush>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0073-1-46AM Lush.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0074-20-36PM%20Lush>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0074-20-36PM Lush.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0075-Synth%20Piano%203>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0075-Synth Piano 3.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0076-Bells%203>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0076-Bells 3.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0077-Seraphim%20Organ>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0077-Seraphim Organ.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0078-StillLagoonSine>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0078-StillLagoonSine.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0079-Enhanced%20SpCh>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0079-Enhanced SpCh.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0080-wahiano01>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0080-wahiano01.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0081-Smooth%201>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0081-Smooth 1.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0082-Smooth%201%20FM>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0082-Smooth 1 FM.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0083-wavy%201>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0083-wavy 1.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0084-progressive-house-pluck>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0084-progressive-house-pluck.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0085-Cindi%20-%20A>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0085-Cindi - A.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0086-Cindi%20-%20B>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0086-Cindi - B.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0087-Cindi%20-%20C>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0087-Cindi - C.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0088-Prophet%20horn%201>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0088-Prophet horn 1.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0089-Prophet%20horn%202>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0089-Prophet horn 2.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0090-Trancehum>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0090-Trancehum.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0091-Noisy%20Tone-Percussion>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0091-Noisy Tone-Percussion.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0092-Retro%20Sound_>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0092-Retro Sound_.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0093-Hum%201>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0093-Hum 1.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0094-Flute>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0094-Flute.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0095-Second_Rendezvous_Part_1>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0095-Second_Rendezvous_Part_1.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0096-Trash%20Synth%20mod>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0096-Trash Synth mod.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0097-Old%20radio%20lead%201>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0097-Old radio lead 1.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0098-Octave%20trem%20lead>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0098-Octave trem lead.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0099-Plucked%20Synth>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0099-Plucked Synth.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0100-dropofwater>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0100-dropofwater.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0101-wha%20ping>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0101-wha ping.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0102-progressive-lead-1>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0102-progressive-lead-1.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0103-square-lead>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0103-square-lead.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0104-asaliah>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0104-asaliah.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0105-Filter%20Trem%20clean>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0105-Filter Trem clean.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0106-Quantize%20Lead>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0106-Quantize Lead.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0107-Computer%20Game>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0107-Computer Game.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0108-chord>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0108-chord.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0109-smp_lead>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0109-smp_lead.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0110-Smooth%202>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0110-Smooth 2.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0111-Smooth%203>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0111-Smooth 3.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0112-Fat%20Saw>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0112-Fat Saw.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0113-kua-kua>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0113-kua-kua.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0114-Ehh_>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0114-Ehh_.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0115-Harp%203>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0115-Harp 3.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0116-Stratotron%20II>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0116-Stratotron II.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0117-Tubular%20Bells>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0117-Tubular Bells.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0118-Echo%20synth%20bells>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0118-Echo synth bells.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0119-galaxzy-guitar>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0119-galaxzy-guitar.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0120-Talking%20clav>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0120-Talking clav.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0121-Ocarina>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0121-Ocarina.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0122-Enveloped%20Pulse%20Lead>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0122-Enveloped Pulse Lead.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0123-Nice%20Guitar%20-%20huh>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0123-Nice Guitar - huh.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0124-Rlstic%20Accordion>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0124-Rlstic Accordion.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0125-Noise%20whistle>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0125-Noise whistle.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0126-Vibes%207c1>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0126-Vibes 7c1.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0127-Vibes%20no_trem>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0127-Vibes no_trem.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0128-Marimba%203>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
+    rdfs:label "net-wisdom: 0128-Marimba 3.xiz" ;
+    rdfs:seeAlso <net-wisdom.ttl> .
+
 <http://zynaddsubfx.sourceforge.net#bank_Noises>
     a pset:Bank ;
     rdfs:label "Noises" .
@@ -3883,6 +4783,1134 @@
     pset:bank <http://zynaddsubfx.sourceforge.net#bank_Noises> ;
     rdfs:label "Noises: 0065-Short noise.xiz" ;
     rdfs:seeAlso <Noises.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#bank_olivers-100>
+    a pset:Bank ;
+    rdfs:label "olivers-100" .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0001-Folk%20Flute>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0001-Folk Flute.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0002-Bamboo%20Flute>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0002-Bamboo Flute.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0003-FM%20Flute>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0003-FM Flute.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0004-Triple%20Osc%20Flute>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0004-Triple Osc Flute.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0005-Soprano%20Double%20Reed>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0005-Soprano Double Reed.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0006-FM%20Saxophone>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0006-FM Saxophone.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0007-FM%20Saxophone%202>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0007-FM Saxophone 2.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0008-Concertina>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0008-Concertina.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0009-FM%20Brass%201>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0009-FM Brass 1.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0010-FM%20Brass%202>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0010-FM Brass 2.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0011-FM%20Brass%203>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0011-FM Brass 3.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0012-Harmonica>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0012-Harmonica.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0013-Soft%20Guitar>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0013-Soft Guitar.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0014-Dist%20Jazz%20Guitar>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0014-Dist Jazz Guitar.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0015-Dist%20Jazz%20Guitar%202>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0015-Dist Jazz Guitar 2.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0016-Banjoey>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0016-Banjoey.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0017-Twang%20Bass>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0017-Twang Bass.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0018-Bass%20Guitar%20-%20Slap>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0018-Bass Guitar - Slap.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0019-FM%20Sitar>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0019-FM Sitar.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0020-King-O-Funk>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0020-King-O-Funk.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0021-EP%20-%20Twangy>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0021-EP - Twangy.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0022-EP%20-%20Muted>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0022-EP - Muted.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0023-EP%20-%20Brighter>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0023-EP - Brighter.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0024-Far%20Out%20EP>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0024-Far Out EP.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0025-Clavinoid>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0025-Clavinoid.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0026-Harpsichord>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0026-Harpsichord.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0027-Toy%20Piano>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0027-Toy Piano.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0028-Mallets>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0028-Mallets.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0029-Steel%20Drums>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0029-Steel Drums.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0030-Balinese%20Chimes>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0030-Balinese Chimes.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0031-Muffled%20Chimes>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0031-Muffled Chimes.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0032-Drum%20Kit>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0032-Drum Kit.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0033-Big%20Crunchy>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0033-Big Crunchy.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0034-Big%20Flangey>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0034-Big Flangey.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0035-Numanesque>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0035-Numanesque.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0036-240%20Grit%20Lead>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0036-240 Grit Lead.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0037-320%20Grit%20Lead>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0037-320 Grit Lead.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0038-Gentle%20Triangle%20Lead>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0038-Gentle Triangle Lead.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0039-Sliding%20Squares%20Lead>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0039-Sliding Squares Lead.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0040-Pheasant%20Lead>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0040-Pheasant Lead.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0041-Plinker%20Bell>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0041-Plinker Bell.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0042-Low%20pH%20Lead>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0042-Low pH Lead.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0043-Hovabotalilfanfeer>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0043-Hovabotalilfanfeer.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0044-Muted%20Fanfare>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0044-Muted Fanfare.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0045-Bink%20Bink%20Lead>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0045-Bink Bink Lead.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0046-Bogus%20PWM%20Lead>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0046-Bogus PWM Lead.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0047-Dirty%20Vibrato%20Lead>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0047-Dirty Vibrato Lead.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0048-Wichita%20Whoop>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0048-Wichita Whoop.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0049-Bitey%20Triangle%20Lead>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0049-Bitey Triangle Lead.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0050-70s%20Triangle%20Lead>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0050-70s Triangle Lead.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0051-Agro%20Odds%20Lead>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0051-Agro Odds Lead.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0052-Soft%20Synth%20Brass>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0052-Soft Synth Brass.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0053-The%20Quack>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0053-The Quack.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0054-Funky%20Reso%20Bass>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0054-Funky Reso Bass.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0055-ssaB%20oseR%20yknuF>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0055-ssaB oseR yknuF.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0056-Creeky%20Reso%20Base>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0056-Creeky Reso Base.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0057-Synth%20Bass>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0057-Synth Bass.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0058-Basic%20Thick%20Bass>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0058-Basic Thick Bass.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0059-Dirt%20Encrusted%20Bass>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0059-Dirt Encrusted Bass.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0060-Punch%20Bass>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0060-Punch Bass.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0061-Formant%20Bass>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0061-Formant Bass.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0062-Distorted%20BIG%20Bass>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0062-Distorted BIG Bass.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0063-Bass%20Analogy>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0063-Bass Analogy.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0064-Frankenstein%20Bass>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0064-Frankenstein Bass.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0065-Osiris%20Pad>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0065-Osiris Pad.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0066-Phased%20Pad>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0066-Phased Pad.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0067-Growing%20Pad>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0067-Growing Pad.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0068-Vintage%20Sweep%20Pad>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0068-Vintage Sweep Pad.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0069-Mellow%20Echo%20Pad>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0069-Mellow Echo Pad.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0070-Flanged%20Wind%20Pad>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0070-Flanged Wind Pad.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0071-Warble%20Pad>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0071-Warble Pad.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0072-Organz%20from%20Outta%20Space>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0072-Organz from Outta Space.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0073-Shimmer%20Swell>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0073-Shimmer Swell.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0074-80s%20Poly%205ths>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0074-80s Poly 5ths.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0075-Swell%205ths>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0075-Swell 5ths.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0076-Vastness%205ths>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0076-Vastness 5ths.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0077-Celestial%205ths>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0077-Celestial 5ths.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0078-Supersaw%20Snit>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0078-Supersaw Snit.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0079-Subtle%20Supersaw%20Strings>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0079-Subtle Supersaw Strings.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0080-Jarre%20Strings>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0080-Jarre Strings.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0081-Phased%20String%20Machine>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0081-Phased String Machine.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0082-Tronic%20Strings>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0082-Tronic Strings.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0083-Tronic%20Voices>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0083-Tronic Voices.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0084-Welcome%20to%20the%2080s>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0084-Welcome to the 80s.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0085-Bright%2080s%20Horn%20Stab>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0085-Bright 80s Horn Stab.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0086-Star%20Voyage%20Pad>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0086-Star Voyage Pad.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0087-Breathy%20Too>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0087-Breathy Too.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0088-Outer%20Galaxy%20Pad>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0088-Outer Galaxy Pad.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0089-Iz%20Da%20Beatz>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0089-Iz Da Beatz.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0090-Vintage%20Unison>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0090-Vintage Unison.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0091-Breezy%20Chord>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0091-Breezy Chord.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0092-Airy%20Chord>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0092-Airy Chord.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0093-Chimey%20Chord>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0093-Chimey Chord.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0094-Donk%20Donk%20Chord>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0094-Donk Donk Chord.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0095-Gross%20and%20Distorted>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0095-Gross and Distorted.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0096-Drifty%20Noisy%205ths>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0096-Drifty Noisy 5ths.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0097-Passing%20Comet>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0097-Passing Comet.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0098-Sweepy%20Noisy%20Pulses>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0098-Sweepy Noisy Pulses.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0099-Robot%20Overlords>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0099-Robot Overlords.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0100-Scrubbed%20Launch>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0100-Scrubbed Launch.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0101-Alien%20Lawnmower>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0101-Alien Lawnmower.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0102-RacecaR>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0102-RacecaR.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0103-Electric%20Swell>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0103-Electric Swell.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0104-Classic%20FM%20Twang>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0104-Classic FM Twang.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0105-Ominosity>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0105-Ominosity.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0106-Unpleasantly%20Drunk>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0106-Unpleasantly Drunk.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0107-Hammering%20Metal>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0107-Hammering Metal.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0108-Boiling%20Cauldron>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0108-Boiling Cauldron.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0109-Crickets>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0109-Crickets.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0110-Jumbo%20Jet>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0110-Jumbo Jet.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0111-Alien%20Chimes>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0111-Alien Chimes.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0112-Synth%20Hero%20Lead>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0112-Synth Hero Lead.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0113-Jan%20H%20Lead>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0113-Jan H Lead.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0114-Soft%20Saw%20Lead>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0114-Soft Saw Lead.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0115-Growling%20Magma>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0115-Growling Magma.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0116-Chirpy%20lead>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0116-Chirpy lead.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0117-Devolved%205ths>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0117-Devolved 5ths.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0118-Flangey%20Swell>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0118-Flangey Swell.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0119-Demo%201%20Swell>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0119-Demo 1 Swell.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0120-Phaser%20Pad>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0120-Phaser Pad.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0121-Another%20OB%20Thang>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0121-Another OB Thang.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0122-Nu%20Gritar>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0122-Nu Gritar.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0123-Double%20Bass>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0123-Double Bass.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0124-Simple%20Clonewheel>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0124-Simple Clonewheel.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0125-Simple%20Clonewheel%20Percussion>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0125-Simple Clonewheel Percussion.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0126-Prayer%20I>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0126-Prayer I.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0127-Prayer%20II>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0127-Prayer II.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0128-Vibra%20Toe%20Lead>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
+    rdfs:label "olivers-100: 0128-Vibra Toe Lead.xiz" ;
+    rdfs:seeAlso <olivers-100.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#bank_olivers-other>
+    a pset:Bank ;
+    rdfs:label "olivers-other" .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0001-Bender%20Lead>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
+    rdfs:label "olivers-other: 0001-Bender Lead.xiz" ;
+    rdfs:seeAlso <olivers-other.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0002-Yessound>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
+    rdfs:label "olivers-other: 0002-Yessound.xiz" ;
+    rdfs:seeAlso <olivers-other.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0003-Deetwooned>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
+    rdfs:label "olivers-other: 0003-Deetwooned.xiz" ;
+    rdfs:seeAlso <olivers-other.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0004-Bitey%20Bitey>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
+    rdfs:label "olivers-other: 0004-Bitey Bitey.xiz" ;
+    rdfs:seeAlso <olivers-other.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0005-Bitey%20Bitey%20II>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
+    rdfs:label "olivers-other: 0005-Bitey Bitey II.xiz" ;
+    rdfs:seeAlso <olivers-other.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0006-Wailing%20PWM%20Lead>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
+    rdfs:label "olivers-other: 0006-Wailing PWM Lead.xiz" ;
+    rdfs:seeAlso <olivers-other.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0007-Cutting%20PWM%20Lead>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
+    rdfs:label "olivers-other: 0007-Cutting PWM Lead.xiz" ;
+    rdfs:seeAlso <olivers-other.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0008-Slippery%20Lead>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
+    rdfs:label "olivers-other: 0008-Slippery Lead.xiz" ;
+    rdfs:seeAlso <olivers-other.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0009-AS%20-%20Flute%202>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
+    rdfs:label "olivers-other: 0009-AS - Flute 2.xiz" ;
+    rdfs:seeAlso <olivers-other.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0012-Warm%20Pad>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
+    rdfs:label "olivers-other: 0012-Warm Pad.xiz" ;
+    rdfs:seeAlso <olivers-other.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0013-Choo%20Stab>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
+    rdfs:label "olivers-other: 0013-Choo Stab.xiz" ;
+    rdfs:seeAlso <olivers-other.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0016-Distorted%20Organ>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
+    rdfs:label "olivers-other: 0016-Distorted Organ.xiz" ;
+    rdfs:seeAlso <olivers-other.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0017-Organ%20w_%20Vibrato>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
+    rdfs:label "olivers-other: 0017-Organ w_ Vibrato.xiz" ;
+    rdfs:seeAlso <olivers-other.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0018-Reedy%20thing>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
+    rdfs:label "olivers-other: 0018-Reedy thing.xiz" ;
+    rdfs:seeAlso <olivers-other.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0019-Country%20Fiddle>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
+    rdfs:label "olivers-other: 0019-Country Fiddle.xiz" ;
+    rdfs:seeAlso <olivers-other.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0020-Country%20Twang%20Guitar>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
+    rdfs:label "olivers-other: 0020-Country Twang Guitar.xiz" ;
+    rdfs:seeAlso <olivers-other.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0021-Space%20Flute>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
+    rdfs:label "olivers-other: 0021-Space Flute.xiz" ;
+    rdfs:seeAlso <olivers-other.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0022-Nasal%20Bass>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
+    rdfs:label "olivers-other: 0022-Nasal Bass.xiz" ;
+    rdfs:seeAlso <olivers-other.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0025-Train%20Bell>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
+    rdfs:label "olivers-other: 0025-Train Bell.xiz" ;
+    rdfs:seeAlso <olivers-other.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0026-Drip>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
+    rdfs:label "olivers-other: 0026-Drip.xiz" ;
+    rdfs:seeAlso <olivers-other.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0027-Clunk>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
+    rdfs:label "olivers-other: 0027-Clunk.xiz" ;
+    rdfs:seeAlso <olivers-other.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0028-Tick>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
+    rdfs:label "olivers-other: 0028-Tick.xiz" ;
+    rdfs:seeAlso <olivers-other.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0029-Nostromo>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
+    rdfs:label "olivers-other: 0029-Nostromo.xiz" ;
+    rdfs:seeAlso <olivers-other.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0030-Deep%20Zyn>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
+    rdfs:label "olivers-other: 0030-Deep Zyn.xiz" ;
+    rdfs:seeAlso <olivers-other.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0031-Hoover%20Craft>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
+    rdfs:label "olivers-other: 0031-Hoover Craft.xiz" ;
+    rdfs:seeAlso <olivers-other.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0033-Crunchy%20Bass>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
+    rdfs:label "olivers-other: 0033-Crunchy Bass.xiz" ;
+    rdfs:seeAlso <olivers-other.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0034-Funk%20Bass>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
+    rdfs:label "olivers-other: 0034-Funk Bass.xiz" ;
+    rdfs:seeAlso <olivers-other.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0035-Saw%20Bass>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
+    rdfs:label "olivers-other: 0035-Saw Bass.xiz" ;
+    rdfs:seeAlso <olivers-other.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0036-Soft%20Saw%20Bass>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
+    rdfs:label "olivers-other: 0036-Soft Saw Bass.xiz" ;
+    rdfs:seeAlso <olivers-other.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0037-Pwink%20Bass>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
+    rdfs:label "olivers-other: 0037-Pwink Bass.xiz" ;
+    rdfs:seeAlso <olivers-other.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0038-FM%20Growly%20Bass>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
+    rdfs:label "olivers-other: 0038-FM Growly Bass.xiz" ;
+    rdfs:seeAlso <olivers-other.ttl> .
+
+<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0039-Flangey%20Bass>
+    a pset:Preset ;
+    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
+    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
+    rdfs:label "olivers-other: 0039-Flangey Bass.xiz" ;
+    rdfs:seeAlso <olivers-other.ttl> .
 
 <http://zynaddsubfx.sourceforge.net#bank_Organ>
     a pset:Bank ;
@@ -5228,2034 +7256,6 @@
     pset:bank <http://zynaddsubfx.sourceforge.net#bank_SynthPiano> ;
     rdfs:label "SynthPiano: 0071-Synth Piano 5.xiz" ;
     rdfs:seeAlso <SynthPiano.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#bank_net-wisdom>
-    a pset:Bank ;
-    rdfs:label "net-wisdom" .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0001-Stereo%20laser%20gun>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0001-Stereo laser gun.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0002-Mod%20beeps>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0002-Mod beeps.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0003-Rising%20bleeps>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0003-Rising bleeps.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0004-Filter%20rise>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0004-Filter rise.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0005-Order%20of%20Chaos>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0005-Order of Chaos.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0006-Robotix%20FM>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0006-Robotix FM.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0007-broke%20robot>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0007-broke robot.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0008-droplets%20for%20chords>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0008-droplets for chords.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0009-Fantasy%20Canyon%20X>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0009-Fantasy Canyon X.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0010-Batman%202>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0010-Batman 2.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0011-Ping>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0011-Ping.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0012-Alien%20Sound>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0012-Alien Sound.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0013-Hoover>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0013-Hoover.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0014-wyatt1sequenz>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0014-wyatt1sequenz.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0015-bizzarro>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0015-bizzarro.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0016-Ioio_01>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0016-Ioio_01.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0017-Own%20Metal%20Sound%20after%202>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0017-Own Metal Sound after  2.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0018-Metal%20Sound%202>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0018-Metal Sound 2.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0019-star%20chimes>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0019-star chimes.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0020-Angry%20Saw>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0020-Angry Saw.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0021-Ugly%20Bells>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0021-Ugly Bells.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0022-Ghost%20Bells>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0022-Ghost Bells.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0023-bubblefx>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0023-bubblefx.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0024-Rich%20Stereo%20Wind>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0024-Rich Stereo Wind.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0025-old%20echoed%20ambient>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0025-old echoed ambient.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0026-White%20Music%201>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0026-White Music 1.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0027-ping%20pong%20drum>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0027-ping pong drum.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0028-Fast%20Bass>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0028-Fast Bass.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0029-Res-Synth%20Bass%203>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0029-Res-Synth Bass 3.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0030-Analog%20Bass>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0030-Analog Bass.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0031-Chip%20Bass%203>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0031-Chip Bass 3.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0032-Chip%20Bass%204>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0032-Chip Bass 4.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0033-Vangelis%20Saw%20-%20A>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0033-Vangelis Saw - A.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0034-Vangelis%20Saw%20-%20B>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0034-Vangelis Saw - B.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0035-Vangelis%20Saw%20-%20C>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0035-Vangelis Saw - C.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0036-Vangelis%20Saw%20-%20D>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0036-Vangelis Saw - D.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0037-buzz>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0037-buzz.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0038-Saw%20String%201>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0038-Saw String 1.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0039-StarWind%20Strings>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0039-StarWind Strings.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0040-brightstrings>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0040-brightstrings.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0041-Electronic%20Strings>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0041-Electronic Strings.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0042-Rick%20Wright_s%20String>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0042-Rick Wright_s String.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0043-Ominous%20Strings>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0043-Ominous Strings.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0044-RichSpace00>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0044-RichSpace00.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0045-Galactic%20Pad>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0045-Galactic Pad.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0046-Synthy%20Pad>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0046-Synthy Pad.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0047-Soft%20Pad>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0047-Soft Pad.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0048-galaxzy-soft>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0048-galaxzy-soft.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0049-Noise-Phased%20Pad>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0049-Noise-Phased Pad.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0050-Flanged%20Pad>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0050-Flanged Pad.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0051-Aura>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0051-Aura.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0052-Sine%20Effect>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0052-Sine Effect.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0053-ContinuumBeatPad>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0053-ContinuumBeatPad.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0054-onemorepad>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0054-onemorepad.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0055-RadioPulsePad>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0055-RadioPulsePad.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0056-Ethereal%20Sub>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0056-Ethereal Sub.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0057-Useless%20Lush>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0057-Useless Lush.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0058-Classic%20Slightly-filtered>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0058-Classic Slightly-filtered.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0059-SUBsaw>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0059-SUBsaw.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0060-Subsyn%20Pad>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0060-Subsyn Pad.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0061-and%20Yet%20another%20one>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0061-and Yet another one.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0062-Glass%20Organ%201>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0062-Glass Organ 1.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0063-similSynth%20Pad>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0063-similSynth Pad.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0064-LostForWordsPad>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0064-LostForWordsPad.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0065-WindSaw>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0065-WindSaw.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0066-Comb%20Filter>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0066-Comb Filter.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0067-Beeping%20Pad>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0067-Beeping Pad.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0068-Vint%20Beep%20Pad>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0068-Vint Beep Pad.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0069-Vint%20Beep%20Pad%20mod>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0069-Vint Beep Pad mod.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0070-Sub%20Lush%20Sweep>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0070-Sub Lush Sweep.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0071-Angelic%20choir>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0071-Angelic choir.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0072-2-36AM%20Lush>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0072-2-36AM Lush.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0073-1-46AM%20Lush>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0073-1-46AM Lush.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0074-20-36PM%20Lush>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0074-20-36PM Lush.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0075-Synth%20Piano%203>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0075-Synth Piano 3.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0076-Bells%203>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0076-Bells 3.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0077-Seraphim%20Organ>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0077-Seraphim Organ.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0078-StillLagoonSine>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0078-StillLagoonSine.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0079-Enhanced%20SpCh>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0079-Enhanced SpCh.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0080-wahiano01>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0080-wahiano01.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0081-Smooth%201>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0081-Smooth 1.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0082-Smooth%201%20FM>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0082-Smooth 1 FM.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0083-wavy%201>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0083-wavy 1.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0084-progressive-house-pluck>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0084-progressive-house-pluck.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0085-Cindi%20-%20A>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0085-Cindi - A.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0086-Cindi%20-%20B>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0086-Cindi - B.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0087-Cindi%20-%20C>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0087-Cindi - C.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0088-Prophet%20horn%201>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0088-Prophet horn 1.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0089-Prophet%20horn%202>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0089-Prophet horn 2.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0090-Trancehum>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0090-Trancehum.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0091-Noisy%20Tone-Percussion>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0091-Noisy Tone-Percussion.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0092-Retro%20Sound_>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0092-Retro Sound_.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0093-Hum%201>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0093-Hum 1.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0094-Flute>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0094-Flute.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0095-Second_Rendezvous_Part_1>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0095-Second_Rendezvous_Part_1.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0096-Trash%20Synth%20mod>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0096-Trash Synth mod.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0097-Old%20radio%20lead%201>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0097-Old radio lead 1.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0098-Octave%20trem%20lead>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0098-Octave trem lead.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0099-Plucked%20Synth>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0099-Plucked Synth.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0100-dropofwater>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0100-dropofwater.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0101-wha%20ping>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0101-wha ping.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0102-progressive-lead-1>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0102-progressive-lead-1.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0103-square-lead>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0103-square-lead.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0104-asaliah>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0104-asaliah.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0105-Filter%20Trem%20clean>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0105-Filter Trem clean.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0106-Quantize%20Lead>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0106-Quantize Lead.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0107-Computer%20Game>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0107-Computer Game.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0108-chord>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0108-chord.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0109-smp_lead>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0109-smp_lead.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0110-Smooth%202>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0110-Smooth 2.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0111-Smooth%203>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0111-Smooth 3.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0112-Fat%20Saw>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0112-Fat Saw.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0113-kua-kua>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0113-kua-kua.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0114-Ehh_>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0114-Ehh_.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0115-Harp%203>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0115-Harp 3.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0116-Stratotron%20II>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0116-Stratotron II.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0117-Tubular%20Bells>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0117-Tubular Bells.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0118-Echo%20synth%20bells>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0118-Echo synth bells.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0119-galaxzy-guitar>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0119-galaxzy-guitar.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0120-Talking%20clav>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0120-Talking clav.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0121-Ocarina>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0121-Ocarina.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0122-Enveloped%20Pulse%20Lead>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0122-Enveloped Pulse Lead.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0123-Nice%20Guitar%20-%20huh>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0123-Nice Guitar - huh.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0124-Rlstic%20Accordion>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0124-Rlstic Accordion.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0125-Noise%20whistle>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0125-Noise whistle.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0126-Vibes%207c1>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0126-Vibes 7c1.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0127-Vibes%20no_trem>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0127-Vibes no_trem.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_net-wisdom_0128-Marimba%203>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_net-wisdom> ;
-    rdfs:label "net-wisdom: 0128-Marimba 3.xiz" ;
-    rdfs:seeAlso <net-wisdom.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#bank_olivers-100>
-    a pset:Bank ;
-    rdfs:label "olivers-100" .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0001-Folk%20Flute>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0001-Folk Flute.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0002-Bamboo%20Flute>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0002-Bamboo Flute.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0003-FM%20Flute>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0003-FM Flute.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0004-Triple%20Osc%20Flute>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0004-Triple Osc Flute.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0005-Soprano%20Double%20Reed>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0005-Soprano Double Reed.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0006-FM%20Saxophone>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0006-FM Saxophone.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0007-FM%20Saxophone%202>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0007-FM Saxophone 2.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0008-Concertina>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0008-Concertina.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0009-FM%20Brass%201>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0009-FM Brass 1.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0010-FM%20Brass%202>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0010-FM Brass 2.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0011-FM%20Brass%203>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0011-FM Brass 3.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0012-Harmonica>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0012-Harmonica.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0013-Soft%20Guitar>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0013-Soft Guitar.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0014-Dist%20Jazz%20Guitar>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0014-Dist Jazz Guitar.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0015-Dist%20Jazz%20Guitar%202>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0015-Dist Jazz Guitar 2.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0016-Banjoey>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0016-Banjoey.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0017-Twang%20Bass>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0017-Twang Bass.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0018-Bass%20Guitar%20-%20Slap>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0018-Bass Guitar - Slap.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0019-FM%20Sitar>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0019-FM Sitar.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0020-King-O-Funk>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0020-King-O-Funk.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0021-EP%20-%20Twangy>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0021-EP - Twangy.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0022-EP%20-%20Muted>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0022-EP - Muted.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0023-EP%20-%20Brighter>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0023-EP - Brighter.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0024-Far%20Out%20EP>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0024-Far Out EP.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0025-Clavinoid>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0025-Clavinoid.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0026-Harpsichord>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0026-Harpsichord.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0027-Toy%20Piano>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0027-Toy Piano.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0028-Mallets>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0028-Mallets.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0029-Steel%20Drums>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0029-Steel Drums.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0030-Balinese%20Chimes>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0030-Balinese Chimes.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0031-Muffled%20Chimes>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0031-Muffled Chimes.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0032-Drum%20Kit>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0032-Drum Kit.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0033-Big%20Crunchy>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0033-Big Crunchy.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0034-Big%20Flangey>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0034-Big Flangey.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0035-Numanesque>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0035-Numanesque.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0036-240%20Grit%20Lead>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0036-240 Grit Lead.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0037-320%20Grit%20Lead>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0037-320 Grit Lead.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0038-Gentle%20Triangle%20Lead>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0038-Gentle Triangle Lead.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0039-Sliding%20Squares%20Lead>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0039-Sliding Squares Lead.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0040-Pheasant%20Lead>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0040-Pheasant Lead.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0041-Plinker%20Bell>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0041-Plinker Bell.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0042-Low%20pH%20Lead>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0042-Low pH Lead.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0043-Hovabotalilfanfeer>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0043-Hovabotalilfanfeer.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0044-Muted%20Fanfare>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0044-Muted Fanfare.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0045-Bink%20Bink%20Lead>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0045-Bink Bink Lead.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0046-Bogus%20PWM%20Lead>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0046-Bogus PWM Lead.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0047-Dirty%20Vibrato%20Lead>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0047-Dirty Vibrato Lead.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0048-Wichita%20Whoop>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0048-Wichita Whoop.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0049-Bitey%20Triangle%20Lead>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0049-Bitey Triangle Lead.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0050-70s%20Triangle%20Lead>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0050-70s Triangle Lead.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0051-Agro%20Odds%20Lead>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0051-Agro Odds Lead.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0052-Soft%20Synth%20Brass>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0052-Soft Synth Brass.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0053-The%20Quack>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0053-The Quack.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0054-Funky%20Reso%20Bass>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0054-Funky Reso Bass.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0055-ssaB%20oseR%20yknuF>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0055-ssaB oseR yknuF.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0056-Creeky%20Reso%20Base>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0056-Creeky Reso Base.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0057-Synth%20Bass>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0057-Synth Bass.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0058-Basic%20Thick%20Bass>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0058-Basic Thick Bass.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0059-Dirt%20Encrusted%20Bass>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0059-Dirt Encrusted Bass.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0060-Punch%20Bass>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0060-Punch Bass.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0061-Formant%20Bass>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0061-Formant Bass.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0062-Distorted%20BIG%20Bass>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0062-Distorted BIG Bass.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0063-Bass%20Analogy>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0063-Bass Analogy.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0064-Frankenstein%20Bass>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0064-Frankenstein Bass.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0065-Osiris%20Pad>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0065-Osiris Pad.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0066-Phased%20Pad>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0066-Phased Pad.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0067-Growing%20Pad>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0067-Growing Pad.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0068-Vintage%20Sweep%20Pad>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0068-Vintage Sweep Pad.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0069-Mellow%20Echo%20Pad>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0069-Mellow Echo Pad.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0070-Flanged%20Wind%20Pad>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0070-Flanged Wind Pad.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0071-Warble%20Pad>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0071-Warble Pad.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0072-Organz%20from%20Outta%20Space>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0072-Organz from Outta Space.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0073-Shimmer%20Swell>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0073-Shimmer Swell.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0074-80s%20Poly%205ths>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0074-80s Poly 5ths.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0075-Swell%205ths>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0075-Swell 5ths.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0076-Vastness%205ths>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0076-Vastness 5ths.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0077-Celestial%205ths>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0077-Celestial 5ths.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0078-Supersaw%20Snit>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0078-Supersaw Snit.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0079-Subtle%20Supersaw%20Strings>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0079-Subtle Supersaw Strings.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0080-Jarre%20Strings>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0080-Jarre Strings.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0081-Phased%20String%20Machine>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0081-Phased String Machine.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0082-Tronic%20Strings>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0082-Tronic Strings.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0083-Tronic%20Voices>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0083-Tronic Voices.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0084-Welcome%20to%20the%2080s>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0084-Welcome to the 80s.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0085-Bright%2080s%20Horn%20Stab>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0085-Bright 80s Horn Stab.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0086-Star%20Voyage%20Pad>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0086-Star Voyage Pad.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0087-Breathy%20Too>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0087-Breathy Too.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0088-Outer%20Galaxy%20Pad>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0088-Outer Galaxy Pad.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0089-Iz%20Da%20Beatz>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0089-Iz Da Beatz.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0090-Vintage%20Unison>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0090-Vintage Unison.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0091-Breezy%20Chord>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0091-Breezy Chord.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0092-Airy%20Chord>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0092-Airy Chord.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0093-Chimey%20Chord>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0093-Chimey Chord.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0094-Donk%20Donk%20Chord>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0094-Donk Donk Chord.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0095-Gross%20and%20Distorted>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0095-Gross and Distorted.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0096-Drifty%20Noisy%205ths>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0096-Drifty Noisy 5ths.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0097-Passing%20Comet>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0097-Passing Comet.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0098-Sweepy%20Noisy%20Pulses>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0098-Sweepy Noisy Pulses.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0099-Robot%20Overlords>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0099-Robot Overlords.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0100-Scrubbed%20Launch>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0100-Scrubbed Launch.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0101-Alien%20Lawnmower>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0101-Alien Lawnmower.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0102-RacecaR>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0102-RacecaR.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0103-Electric%20Swell>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0103-Electric Swell.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0104-Classic%20FM%20Twang>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0104-Classic FM Twang.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0105-Ominosity>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0105-Ominosity.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0106-Unpleasantly%20Drunk>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0106-Unpleasantly Drunk.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0107-Hammering%20Metal>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0107-Hammering Metal.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0108-Boiling%20Cauldron>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0108-Boiling Cauldron.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0109-Crickets>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0109-Crickets.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0110-Jumbo%20Jet>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0110-Jumbo Jet.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0111-Alien%20Chimes>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0111-Alien Chimes.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0112-Synth%20Hero%20Lead>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0112-Synth Hero Lead.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0113-Jan%20H%20Lead>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0113-Jan H Lead.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0114-Soft%20Saw%20Lead>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0114-Soft Saw Lead.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0115-Growling%20Magma>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0115-Growling Magma.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0116-Chirpy%20lead>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0116-Chirpy lead.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0117-Devolved%205ths>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0117-Devolved 5ths.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0118-Flangey%20Swell>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0118-Flangey Swell.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0119-Demo%201%20Swell>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0119-Demo 1 Swell.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0120-Phaser%20Pad>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0120-Phaser Pad.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0121-Another%20OB%20Thang>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0121-Another OB Thang.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0122-Nu%20Gritar>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0122-Nu Gritar.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0123-Double%20Bass>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0123-Double Bass.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0124-Simple%20Clonewheel>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0124-Simple Clonewheel.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0125-Simple%20Clonewheel%20Percussion>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0125-Simple Clonewheel Percussion.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0126-Prayer%20I>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0126-Prayer I.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0127-Prayer%20II>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0127-Prayer II.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-100_0128-Vibra%20Toe%20Lead>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-100> ;
-    rdfs:label "olivers-100: 0128-Vibra Toe Lead.xiz" ;
-    rdfs:seeAlso <olivers-100.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#bank_olivers-other>
-    a pset:Bank ;
-    rdfs:label "olivers-other" .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0001-Bender%20Lead>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
-    rdfs:label "olivers-other: 0001-Bender Lead.xiz" ;
-    rdfs:seeAlso <olivers-other.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0002-Yessound>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
-    rdfs:label "olivers-other: 0002-Yessound.xiz" ;
-    rdfs:seeAlso <olivers-other.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0003-Deetwooned>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
-    rdfs:label "olivers-other: 0003-Deetwooned.xiz" ;
-    rdfs:seeAlso <olivers-other.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0004-Bitey%20Bitey>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
-    rdfs:label "olivers-other: 0004-Bitey Bitey.xiz" ;
-    rdfs:seeAlso <olivers-other.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0005-Bitey%20Bitey%20II>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
-    rdfs:label "olivers-other: 0005-Bitey Bitey II.xiz" ;
-    rdfs:seeAlso <olivers-other.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0006-Wailing%20PWM%20Lead>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
-    rdfs:label "olivers-other: 0006-Wailing PWM Lead.xiz" ;
-    rdfs:seeAlso <olivers-other.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0007-Cutting%20PWM%20Lead>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
-    rdfs:label "olivers-other: 0007-Cutting PWM Lead.xiz" ;
-    rdfs:seeAlso <olivers-other.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0008-Slippery%20Lead>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
-    rdfs:label "olivers-other: 0008-Slippery Lead.xiz" ;
-    rdfs:seeAlso <olivers-other.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0009-AS%20-%20Flute%202>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
-    rdfs:label "olivers-other: 0009-AS - Flute 2.xiz" ;
-    rdfs:seeAlso <olivers-other.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0012-Warm%20Pad>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
-    rdfs:label "olivers-other: 0012-Warm Pad.xiz" ;
-    rdfs:seeAlso <olivers-other.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0013-Choo%20Stab>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
-    rdfs:label "olivers-other: 0013-Choo Stab.xiz" ;
-    rdfs:seeAlso <olivers-other.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0016-Distorted%20Organ>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
-    rdfs:label "olivers-other: 0016-Distorted Organ.xiz" ;
-    rdfs:seeAlso <olivers-other.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0017-Organ%20w_%20Vibrato>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
-    rdfs:label "olivers-other: 0017-Organ w_ Vibrato.xiz" ;
-    rdfs:seeAlso <olivers-other.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0018-Reedy%20thing>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
-    rdfs:label "olivers-other: 0018-Reedy thing.xiz" ;
-    rdfs:seeAlso <olivers-other.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0019-Country%20Fiddle>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
-    rdfs:label "olivers-other: 0019-Country Fiddle.xiz" ;
-    rdfs:seeAlso <olivers-other.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0020-Country%20Twang%20Guitar>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
-    rdfs:label "olivers-other: 0020-Country Twang Guitar.xiz" ;
-    rdfs:seeAlso <olivers-other.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0021-Space%20Flute>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
-    rdfs:label "olivers-other: 0021-Space Flute.xiz" ;
-    rdfs:seeAlso <olivers-other.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0022-Nasal%20Bass>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
-    rdfs:label "olivers-other: 0022-Nasal Bass.xiz" ;
-    rdfs:seeAlso <olivers-other.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0025-Train%20Bell>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
-    rdfs:label "olivers-other: 0025-Train Bell.xiz" ;
-    rdfs:seeAlso <olivers-other.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0026-Drip>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
-    rdfs:label "olivers-other: 0026-Drip.xiz" ;
-    rdfs:seeAlso <olivers-other.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0027-Clunk>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
-    rdfs:label "olivers-other: 0027-Clunk.xiz" ;
-    rdfs:seeAlso <olivers-other.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0028-Tick>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
-    rdfs:label "olivers-other: 0028-Tick.xiz" ;
-    rdfs:seeAlso <olivers-other.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0029-Nostromo>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
-    rdfs:label "olivers-other: 0029-Nostromo.xiz" ;
-    rdfs:seeAlso <olivers-other.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0030-Deep%20Zyn>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
-    rdfs:label "olivers-other: 0030-Deep Zyn.xiz" ;
-    rdfs:seeAlso <olivers-other.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0031-Hoover%20Craft>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
-    rdfs:label "olivers-other: 0031-Hoover Craft.xiz" ;
-    rdfs:seeAlso <olivers-other.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0033-Crunchy%20Bass>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
-    rdfs:label "olivers-other: 0033-Crunchy Bass.xiz" ;
-    rdfs:seeAlso <olivers-other.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0034-Funk%20Bass>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
-    rdfs:label "olivers-other: 0034-Funk Bass.xiz" ;
-    rdfs:seeAlso <olivers-other.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0035-Saw%20Bass>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
-    rdfs:label "olivers-other: 0035-Saw Bass.xiz" ;
-    rdfs:seeAlso <olivers-other.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0036-Soft%20Saw%20Bass>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
-    rdfs:label "olivers-other: 0036-Soft Saw Bass.xiz" ;
-    rdfs:seeAlso <olivers-other.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0037-Pwink%20Bass>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
-    rdfs:label "olivers-other: 0037-Pwink Bass.xiz" ;
-    rdfs:seeAlso <olivers-other.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0038-FM%20Growly%20Bass>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
-    rdfs:label "olivers-other: 0038-FM Growly Bass.xiz" ;
-    rdfs:seeAlso <olivers-other.ttl> .
-
-<http://zynaddsubfx.sourceforge.net#preset_olivers-other_0039-Flangey%20Bass>
-    a pset:Preset ;
-    lv2:appliesTo <http://zynaddsubfx.sourceforge.net> ;
-    pset:bank <http://zynaddsubfx.sourceforge.net#bank_olivers-other> ;
-    rdfs:label "olivers-other: 0039-Flangey Bass.xiz" ;
-    rdfs:seeAlso <olivers-other.ttl> .
 
 <http://zynaddsubfx.sourceforge.net#bank_the_mysterious_bank>
     a pset:Bank ;
