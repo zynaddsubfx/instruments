@@ -1,7 +1,7 @@
 
 <?xml version="1.0f" encoding="UTF-8"?>
 <!DOCTYPE ZynAddSubFX-data>
-<ZynAddSubFX-data version-major="2" version-minor="4"
+<ZynAddSubFX-data version-major="2" version-minor="5"
 version-revision="4" ZynAddSubFX-author="Nasca Octavian Paul">
 <INFORMATION>
 <par_bool name="PADsynth_used" value="yes" />
@@ -18,7 +18,7 @@ version-revision="4" ZynAddSubFX-author="Nasca Octavian Paul">
 <INFO>
 <string name="name">galaxzy-soft</string>
 <string name="author"></string>
-<string name="comments"></string>
+<string name="comments">Janne (Skiessi)</string>
 <par name="type" value="0" />
 </INFO>
 <INSTRUMENT_KIT>
@@ -81,6 +81,7 @@ version-revision="4" ZynAddSubFX-author="Nasca Octavian Paul">
 <par name="adaptive_harmonics" value="0" />
 <par name="adaptive_harmonics_base_frequency" value="128" />
 <par name="adaptive_harmonics_power" value="100" />
+<par name="adaptive_harmonics_par" value="50" />
 <HARMONICS>
 <HARMONIC id="1">
 <par name="mag" value="127" />
@@ -107,6 +108,7 @@ version-revision="4" ZynAddSubFX-author="Nasca Octavian Paul">
 <par name="volume" value="94" />
 <par name="panning" value="64" />
 <par name="velocity_sensing" value="99" />
+<par name="fadein_adjustment" value="20" />
 <par name="punch_strength" value="0" />
 <par name="punch_time" value="60" />
 <par name="punch_stretch" value="64" />
@@ -127,7 +129,7 @@ version-revision="4" ZynAddSubFX-author="Nasca Octavian Paul">
 <par name="R_val" value="64" />
 </AMPLITUDE_ENVELOPE>
 <AMPLITUDE_LFO>
-<par_real name="freq" value="0" />
+<par_real name="freq" value="0" exact_value="0x       0" />
 <par name="intensity" value="0" />
 <par name="start_phase" value="64" />
 <par name="lfo_type" value="0" />
@@ -141,6 +143,8 @@ version-revision="4" ZynAddSubFX-author="Nasca Octavian Paul">
 <FREQUENCY_PARAMETERS>
 <par name="fixed_freq" value="0" />
 <par name="fixed_freq_et" value="0" />
+<par name="bend_adjust" value="88" />
+<par name="offset_hz" value="64" />
 <par name="detune" value="8192" />
 <par name="coarse_detune" value="0" />
 <par name="detune_type" value="1" />
@@ -160,7 +164,7 @@ version-revision="4" ZynAddSubFX-author="Nasca Octavian Paul">
 <par name="R_val" value="64" />
 </FREQUENCY_ENVELOPE>
 <FREQUENCY_LFO>
-<par_real name="freq" value="0" />
+<par_real name="freq" value="0" exact_value="0x       0" />
 <par name="intensity" value="0" />
 <par name="start_phase" value="64" />
 <par name="lfo_type" value="0" />
@@ -199,7 +203,7 @@ version-revision="4" ZynAddSubFX-author="Nasca Octavian Paul">
 <par name="R_val" value="43" />
 </FILTER_ENVELOPE>
 <FILTER_LFO>
-<par_real name="freq" value="0" />
+<par_real name="freq" value="0" exact_value="0x       0" />
 <par name="intensity" value="0" />
 <par name="start_phase" value="64" />
 <par name="lfo_type" value="0" />
